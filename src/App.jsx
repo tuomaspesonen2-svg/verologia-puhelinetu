@@ -1,7 +1,7 @@
-import TyomatkaetuLaskelma from "./TyomatkaetuLaskelma";
+import PuhelinetuLaskelma from "./PuhelinetuLaskelma";
 
 function App() {
-  return <TyomatkaetuLaskelma />;
+  return <PuhelinetuLaskelma />;
 }
 
 export default App;
